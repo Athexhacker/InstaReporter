@@ -19,7 +19,7 @@
   
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)  
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)  
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/muneebwanee/InstaReporter)  
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/Athexhacker/InstaReporter)  
   
 </div>  
   
@@ -62,7 +62,7 @@ python --version
   
 1. **Clone the repository**  
 ```bash  
-git clone https://github.com/muneebwanee/InstaReporter.git  
+git clone https://github.com/Athexhacker/InstaReporter.git  
 cd InstaReporter  
 ```  
   
@@ -243,11 +243,9 @@ Found a bug? Please open an issue with:
   
 <div align="center">  
   
-**👨‍💻 Producer: Muneeb**  
+**👨‍💻 developer: ATHEX**  
   
-[![Instagram](https://img.shields.io/badge/Instagram-@muneebwanee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muneebwanee)  
-[![GitHub](https://img.shields.io/badge/GitHub-muneebwanee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muneebwanee)  
-[![Email](https://img.shields.io/badge/Email-muneebwanee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneebwanee@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-@itx_inzi86-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itx_inzi86)  
   
 </div>  
   
@@ -263,6 +261,6 @@ This project is licensed under the **Educational License** - see the [LICENSE](L
   
 **⭐ If this project helped you, please give it a star! ⭐**  
   
-*Made with ❤️ by [Muneeb](https://github.com/muneebwanee)*  
+*Made with ❤️ by [Athex](https://github.com/Athexhacker)*  
   
 </div>
